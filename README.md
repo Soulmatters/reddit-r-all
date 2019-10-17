@@ -1,5 +1,6 @@
 # reddit-app
 
+## Go to [https://soulmatters.github.io/reddit-r-all/](App demo)
 ## Project setup
 
 ```
