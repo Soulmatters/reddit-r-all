@@ -1,6 +1,6 @@
 # reddit-app
 
-## Go to [https://soulmatters.github.io/reddit-r-all/](App demo)
+## Go to [App demo](https://soulmatters.github.io/reddit-r-all/)
 ## Project setup
 
 ```
@@ -16,7 +16,6 @@ Run command to start the local environment.
 ```
 yarn build
 ```
-Before pushing  to github, its needed to build in order for github pages to get the new files
 
 ### Run your unit tests
 ```
@@ -27,4 +26,9 @@ Run unit tests to make sure everything is ok
 ```
 yarn lint
 ```
+```
+yarn deploy
+```
+Will run a sh script and deploy it to gh-pages
+Just make sure to add the public path to vue.config.js your own repository name
 
