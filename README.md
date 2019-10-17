@@ -26,6 +26,7 @@ Run unit tests to make sure everything is ok
 ```
 yarn lint
 ```
+### Deploy the app
 ```
 yarn deploy
 ```
