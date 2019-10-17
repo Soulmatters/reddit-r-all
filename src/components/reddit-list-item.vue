@@ -80,7 +80,7 @@ export default {
 .card-wrapper {
   max-width: 400px;
   width: 100%;
-  margin: 20px;
+  margin: 20px 0px;
   background: #fff;
   color: #212121;
   padding-top: 20px;
